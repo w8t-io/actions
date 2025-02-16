@@ -3,18 +3,21 @@ changelog:
     labels:
       - ignore-for-release
   categories:
-    - title: 🏕 Features
+    - title: '🚀 Features'
       labels:
-        - 'enhancement'
+        - 'feature'
     - title: '🐛 Bug Fixes'
       labels:
         - 'bug'
-    - title: '👋 Deprecated'
+    - title: 📝 Documentation updates
       labels:
-        - 'deprecation'
-    - title: 📦 Dependencies
+        - documentation
+    - title: 👻 Maintenance
       labels:
         - dependencies
+    - title: 🚦 Tests
+      labels:
+        - tests
     - title: Other Changes
       labels:
         - "*"
